@@ -2,9 +2,10 @@
     "applinks": {
         "apps": [],
         "details": [
-	{
-            "appID": "PH45YFK29K.com.comstage",
-            "paths": ["/join/*"]
-        }]
+            {
+                "appID": "PH45YFK29K.com.comstage",
+                "paths": ["/join/*"]
+            }
+        ]
     }
 }
